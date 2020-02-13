@@ -1,2 +1,2 @@
-# Exercios-Python
+# Exercicios-Python
 Códigos dos treinos em python
