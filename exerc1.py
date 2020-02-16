@@ -1,0 +1,8 @@
+x = float(input("Digite qualquer número e veja algumas operações: \n"))
+print(x)
+print(x/2)
+print(x*2)
+print(x**2)
+print(x**0.5)
+print(x**x)
+print(x**(1/x))

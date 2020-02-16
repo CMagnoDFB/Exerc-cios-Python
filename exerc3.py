@@ -1,0 +1,6 @@
+nome = input("diz o nome \n")
+dia = int(input("diz o dia \n"))
+print("Olá", nome)
+print("hoje é", dia)
+print("amanhã é", dia+1)
+print("ontem foi", dia-1)

@@ -1,0 +1,8 @@
+print("vc dara o dia de hoje e de uma data no futuro, apos isso recebera quantos dias faltam")
+dia0 = int(input("Diga o dia de hoje"))
+mes0 = int(input("diga o mes atual"))
+ano0 = int(input("diga o ano atual"))
+dia1 = int(input("Diga o dia futuro"))
+mes1 = int(input("diga o mes futuro"))
+ano1 = int(input("diga o ano futuro"))
+print(((ano1*365) + mes1*30 + dia1) - (ano0*365 + mes0*30 + dia0))
